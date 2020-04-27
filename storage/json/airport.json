@@ -1,0 +1,258 @@
+[
+    {
+        "Name": "ท่าอากาศยานสุวรรณภูมิ",
+        "City": "บางพลี",
+        "State": "สมุทรปราการ",
+        "Department": "ท่าอากาศยานไทย",
+        "Name_eng": "Suvarnabhumi-Airport",
+        "State_eng": "Samut-Prakan"
+    },
+    {
+        "Name": "ท่าอากาศยานดอนเมือง",
+        "City": "ดอนเมือง",
+        "State": "กรุงเทพมหานคร",
+        "Department": "ท่าอากาศยานไทย , กองทัพอากาศ",
+        "Name_eng": "Don-Mueang-International-Airport",
+        "State_eng": "Bangkok"
+    },
+    {
+        "Name": "ท่าอากาศยานแม่ฟ้าหลวง",
+        "City": "เมืองเชียงราย",
+        "State": "เชียงราย",
+        "Department": "ท่าอากาศยานไทย",
+        "Name_eng": "Mae-Fah-Luang-Chiang-Rai-International-Airport",
+        "State_eng": "Chiang-Rai"
+    },
+    {
+        "Name": "ท่าอากาศยานแม่ฮ่องสอน",
+        "City": "เมืองแม่ฮ่องสอน",
+        "State": "แม่ฮ่องสอน",
+        "Department": "กรมท่าอากาศยาน",
+        "Name_eng": "Mae-Hong-Son-Airport",
+        "State_eng": "Mae-Hong-Son"
+    },
+    {
+        "Name": "ท่าอากาศยานเชียงใหม่",
+        "City": "เมืองเชียงใหม่",
+        "State": "เชียงใหม่",
+        "Department": "ท่าอากาศยานไทย,กองทัพอากาศ",
+        "Name_eng": "Chiang-Mai-International-Airport",
+        "State_eng": "Chiang-Mai"
+    },
+    {
+        "Name": "ท่าอากาศยานน่านนคร",
+        "City": "เมืองน่าน",
+        "State": "น่าน",
+        "Department": "กรมท่าอากาศยาน,กองทัพอากาศ",
+        "Name_eng": "Nan-Nakhon-Airport",
+        "State_eng": "Nan"
+    },
+    {
+        "Name": "ท่าอากาศยานแพร่",
+        "City": "เมืองแพร่",
+        "State": "แพร่",
+        "Department": "กรมท่าอากาศยาน",
+        "Name_eng": "Phrae-Airport",
+        "State_eng": "Phrae"
+    },
+    {
+        "Name": "ท่าอากาศยานลำปาง",
+        "City": "เมืองลำปาง",
+        "State": "ลำปาง",
+        "Department": "กรมท่าอากาศยาน",
+        "Name_eng": "Lampang-Airport",
+        "State_eng": "Lampang"
+    },
+    {
+        "Name": "ท่าอากาศยานแม่สอด",
+        "City": "แม่สอด",
+        "State": "ตาก",
+        "Department": "กรมท่าอากาศยาน",
+        "Name_eng": "Mae-Sot-Airport",
+        "State_eng": "Tak"
+    },
+    {
+        "Name": "ท่าอากาศยานสุโขทัย",
+        "City": "สวรรคโลก",
+        "State": "สุโขทัย",
+        "Department": "บริษัท การบินกรุงเทพ จำกัด (มหาชน)",
+        "Name_eng": "Sukhothai-Airport",
+        "State_eng": "Sukhothai"
+    },
+    {
+        "Name": "ท่าอากาศยานพิษณุโลก",
+        "City": "เมืองพิษณุโลก",
+        "State": "พิษณุโลก",
+        "Department": "กรมท่าอากาศยาน",
+        "Name_eng": "Phitsanulok-Airport",
+        "State_eng": "Phitsanulok"
+    },
+    {
+        "Name": "ท่าอากาศยานนานาชาติอุดรธานี",
+        "City": "เมืองอุดรธานี",
+        "State": "อุดรธานี",
+        "Department": "กรมท่าอากาศยาน",
+        "Name_eng": "Udon-Thani-International-Airport",
+        "State_eng": "Udon-Thani"
+    },
+    {
+        "Name": "ท่าอากาศยานนครพนม",
+        "City": "เมืองนครพนม",
+        "State": "นครพนม",
+        "Department": "กรมท่าอากาศยาน",
+        "Name_eng": "Nakhon-Phanom-Airport",
+        "State_eng": "Nakhon-Phanom"
+    },
+    {
+        "Name": "ท่าอากาศยานขอนแก่น",
+        "City": "เมืองขอนแก่น",
+        "State": "ขอนแก่น",
+        "Department": "กรมท่าอากาศยาน",
+        "Name_eng": "Khon-Kaen-Airport",
+        "State_eng": "Khon-Kaen"
+    },
+    {
+        "Name": "ท่าอากาศยานร้อยเอ็ด",
+        "City": "ธวัชบุรี",
+        "State": "ร้อยเอ็ด",
+        "Department": "กรมท่าอากาศยาน",
+        "Name_eng": "Roi-Et-Airport",
+        "State_eng": "Roi-Et"
+    },
+    {
+        "Name": "ท่าอากาศยานนานาชาติอุบลราชธานี",
+        "City": "เมืองอุบลราชธานี",
+        "State": "อุบลราชธานี",
+        "Department": "กรมท่าอากาศยาน",
+        "Name_eng": "Ubon-Ratchathani-International-Airport",
+        "State_eng": "Ubon-Ratchathani"
+    },
+    {
+        "Name": "ท่าอากาศยานระนอง",
+        "City": "เมืองระนอง",
+        "State": "ระนอง",
+        "Department": "กรมท่าอากาศยาน",
+        "Name_eng": "Ranong-Airport",
+        "State_eng": "Ranong"
+    },
+    {
+        "Name": "ท่าอากาศยานนานาชาติสุราษฎร์ธานี",
+        "City": "พุนพิน",
+        "State": "สุราษฎร์ธานี",
+        "Department": "กรมท่าอากาศยาน",
+        "Name_eng": "Surat-Thani-International-Airport",
+        "State_eng": "Surat-Thani"
+    },
+    {
+        "Name": "ท่าอากาศยานสมุย",
+        "City": "เกาะสมุย",
+        "State": "สุราษฎร์ธานี",
+        "Department": "บริษัท การบินกรุงเทพ จำกัด (มหาชน)",
+        "Name_eng": "Samui-Airport",
+        "State_eng": "Surat-Thani"
+    },
+    {
+        "Name": "ท่าอากาศยานนครศรีธรรมราช",
+        "City": "เมืองนครศรีธรรมราช",
+        "State": "นครศรีธรรมราช",
+        "Department": "บริษัท การบินกรุงเทพ จำกัด (มหาชน)",
+        "Name_eng": "Nakhon-Si-Thammarat-Airport",
+        "State_eng": "Nakhon-Si-Thammarat"
+    },
+    {
+        "Name": "ท่าอากาศยานภูเก็ต",
+        "City": "ถลาง",
+        "State": "ภูเก็ต",
+        "Department": "ท่าอากาศยานไทย",
+        "Name_eng": "Phuket-International-Airport",
+        "State_eng": "Phuket"
+    },
+    {
+        "Name": "ท่าอากาศยานนานาชาติกระบี่",
+        "City": "เหนือคลอง",
+        "State": "กระบี่",
+        "Department": "กรมท่าอากาศยาน",
+        "Name_eng": "Krabi-International-Airport",
+        "State_eng": "Krabi"
+    },
+    {
+        "Name": "ท่าอากาศยานตรัง",
+        "City": "เมืองตรัง",
+        "State": "ตรัง",
+        "Department": "กรมท่าอากาศยาน",
+        "Name_eng": "Trang-Airport",
+        "State_eng": "Trang"
+    },
+    {
+        "Name": "ท่าอากาศยานหาดใหญ่",
+        "City": "คลองหอยโข่ง",
+        "State": "สงขลา",
+        "Department": "ท่าอากาศยานไทย",
+        "Name_eng": "Hat-Yai-International-Airport",
+        "State_eng": "Hat-Yai"
+    },
+    {
+        "Name": "ท่าอากาศยานนราธิวาส",
+        "City": "เมืองนราธิวาส",
+        "State": "นราธิวาส",
+        "Department": "กรมท่าอากาศยาน",
+        "Name_eng": "Narathiwat-Airport",
+        "State_eng": "Narathiwat"
+    },
+    {
+        "Name": "ท่าอากาศยานชุมพร",
+        "City": "ปะทิว",
+        "State": "ชุมพร",
+        "Department": "กรมท่าอากาศยาน",
+        "Name_eng": "Chumphon-Airport",
+        "State_eng": "Chumphon"
+    },
+    {
+        "Name": "ท่าอากาศยานบุรีรัมย์",
+        "City": "สตึก",
+        "State": "บุรีรัมย์",
+        "Department": "กรมท่าอากาศยาน",
+        "Name_eng": "Buriram-Airport",
+        "State_eng": "Buriram"
+    },
+    {
+        "Name": "ท่าอากาศยานหัวหิน",
+        "City": "หัวหิน",
+        "State": "ประจวบคีรีขันธ์",
+        "Department": "กรมท่าอากาศยาน",
+        "Name_eng": "Hua-Hin-Airport",
+        "State_eng": "Prachuap-Khiri-Khan"
+    },
+    {
+        "Name": "ท่าอากาศยานเลย",
+        "City": "เมืองเลย",
+        "State": "เลย",
+        "Department": "กรมท่าอากาศยาน",
+        "Name_eng": "Loei-Airport",
+        "State_eng": "Loei"
+    },
+    {
+        "Name": "ท่าอากาศยานสกลนคร",
+        "City": "เมืองสกลนคร",
+        "State": "สกลนคร",
+        "Department": "กรมท่าอากาศยาน",
+        "Name_eng": "Sakon-Nakhon-Airport",
+        "State_eng": "Sakon-Nakhon"
+    },
+    {
+        "Name": "ท่าอากาศยานตราด",
+        "City": "เขาสมิง",
+        "State": "ตราด",
+        "Department": "บริษัท การบินกรุงเทพ จำกัด (มหาชน)",
+        "Name_eng": "Trat-Airport",
+        "State_eng": "Trat"
+    },
+    {
+        "Name": "ท่าอากาศยานนานาชาติอู่ตะเภา (ระยอง–พัทยา)",
+        "City": "บ้านฉาง",
+        "State": "ระยอง",
+        "Department": "บริษัท การบินกรุงเทพ จำกัด (มหาชน)",
+        "Name_eng": "U-Tapao-International-Airport",
+        "State_eng": "Rayong"
+    }
+]

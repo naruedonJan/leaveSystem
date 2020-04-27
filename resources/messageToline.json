@@ -1,0 +1,106 @@
+{
+    "leaveAllowYes": {
+        "to": "0",
+        "messages": [
+            {
+                "type": "flex",
+                "altText": "แจ้งเตือนการขอลา",
+                "contents": {
+                    "type": "bubble",
+                    "direction": "ltr",
+                    "header": {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "แจ้งเตือนการขอลา",
+                                "margin": "none",
+                                "align": "center"
+                            }
+                        ]
+                    },
+                    "body": {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "อนุญาติ",
+                                "margin": "md",
+                                "size": "3xl",
+                                "align": "center",
+                                "weight": "bold",
+                                "color": "#04A11E",
+                                "wrap": true
+                            },
+                            {
+                                "type": "separator",
+                                "margin": "xl"
+                            },
+                            {
+                                "type": "text",
+                                "text": "date",
+                                "margin": "lg",
+                                "align": "center",
+                                "weight": "bold"
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+    },
+    "leaveAllowNo": {
+        "to": "0",
+        "messages": [
+            {
+                "type": "flex",
+                "altText": "แจ้งเตือนการขอลา",
+                "contents": {
+                    "type": "bubble",
+                    "direction": "ltr",
+                    "header": {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "แจ้งเตือนการขอลา",
+                                "margin": "none",
+                                "align": "center"
+                            }
+                        ]
+                    },
+                    "body": {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "ไม่อนุญาติ",
+                                "margin": "md",
+                                "size": "3xl",
+                                "align": "center",
+                                "weight": "bold",
+                                "color": "#E80101",
+                                "wrap": true
+                            },
+                            {
+                                "type": "separator",
+                                "margin": "xl"
+                            },
+                            {
+                                "type": "text",
+                                "text": "date",
+                                "margin": "lg",
+                                "align": "center",
+                                "weight": "bold"
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+    }
+}
